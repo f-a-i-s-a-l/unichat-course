@@ -1,4 +1,4 @@
-import React, {useRef, useState, useEffect} from "react";
+import React, {useState, useEffect} from "react";
 import { useHistory } from "react-router-dom";
 import {ChatEngine} from 'react-chat-engine';
 import './App.css';
@@ -65,7 +65,7 @@ const Chats = () =>{
         <div className="chats-page">
             <div className="nav-bar">
                 <div className="logo-tab">
-                    JUnite
+                    JadeFarm
                 </div>
                 <div onClick={handleLogout} className="logout-tab">
                     Logout
