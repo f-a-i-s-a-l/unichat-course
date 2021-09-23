@@ -8,7 +8,7 @@ In the root folder, open the terminal and tyle
 ```npm start```
 
 Alternatively, you can access the finished product by visiting the website
-```https://jadefarm.netlify.app/```
+[JadeFarm](https://jadefarm.netlify.app/)
 
 # Technologies used
 Firebase - provides Google Authentication for user log-in
